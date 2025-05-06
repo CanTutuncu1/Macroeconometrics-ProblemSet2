@@ -1,4 +1,4 @@
-# Macroeconometrics-ProblemSet2
+# UnitRootTesting SpuriousRegression GrangerCasuality
 Application of unit root testing, spurious regression, granger casuality via MATLAB. This project was prepared for a group homework assignment by me and my groupmates for the class of '20532: Macroeconometrics'. 
 
 ## Features
